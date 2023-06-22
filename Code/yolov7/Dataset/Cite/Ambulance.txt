@@ -1,0 +1,12 @@
+@misc{ ambulance_detection-zfeve_dataset,
+    title = { ambulance_detection Dataset },
+    type = { Open Source Dataset },
+    author = { ell205 },
+    howpublished = { \url{ https://universe.roboflow.com/ell205/ambulance_detection-zfeve } },
+    url = { https://universe.roboflow.com/ell205/ambulance_detection-zfeve },
+    journal = { Roboflow Universe },
+    publisher = { Roboflow },
+    year = { 2022 },
+    month = { nov },
+    note = { visited on 2023-04-03 },
+}

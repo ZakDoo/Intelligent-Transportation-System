@@ -1,0 +1,34 @@
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: data/train  # 3610 images
+# Ambulance: 130
+# Motorcycle: 1304
+# Bus: 715
+# Tractor: 60
+# Car: 15905
+# Truck: 2118
+# Person: 3059
+# Bicycle: 100
+val: data/valid  # 430 images
+# Ambulance: 38
+# Motorcycle: 55
+# Bus: 17
+# Tractor: 0
+# Car: 712
+# Truck: 308
+# Person: 781
+# Bicycle: 17
+test: data/test  # 55 images
+# Ambulance: 20
+# Motorcycle: 14
+# Bus: 17
+# Tractor: 0
+# Car: 202
+# Truck: 39
+# Person: 153
+# Bicycle: 5
+
+# number of classes
+nc: 8
+
+# class names
+names: ['Ambulance', 'Motorcycle', 'Bus', 'Tractor', 'Car', 'Truck', 'Person', 'Bicycle']

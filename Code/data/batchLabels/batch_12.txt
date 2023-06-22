@@ -1,0 +1,6 @@
+81 Car
+12 Car
+80 Truck
+86 Truck
+84 Truck
+79 Car

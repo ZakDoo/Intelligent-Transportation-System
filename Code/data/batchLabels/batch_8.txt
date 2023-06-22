@@ -1,0 +1,7 @@
+57 Car
+52 Car
+47 Car
+48 Car
+58 Car
+51 Car
+49 Truck

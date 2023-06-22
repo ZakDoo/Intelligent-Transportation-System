@@ -1,0 +1,14 @@
+16 Car
+18 Car
+14 Car
+5 Car
+19 Car
+2 Car
+6 Car
+7 Truck
+1 Car
+15 Car
+17 Car
+13 Car
+4 Car
+3 Car

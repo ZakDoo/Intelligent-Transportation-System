@@ -1,0 +1,12 @@
+@misc{ person-dataset-burgs_dataset,
+    title = { person dataset Dataset },
+    type = { Open Source Dataset },
+    author = { SADI0v2 },
+    howpublished = { \url{ https://universe.roboflow.com/sadi0v2/person-dataset-burgs } },
+    url = { https://universe.roboflow.com/sadi0v2/person-dataset-burgs },
+    journal = { Roboflow Universe },
+    publisher = { Roboflow },
+    year = { 2023 },
+    month = { jan },
+    note = { visited on 2023-04-03 },
+}

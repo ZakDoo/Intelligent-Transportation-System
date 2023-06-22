@@ -1,0 +1,12 @@
+484 Car
+481 Car
+487 Truck
+492 Truck
+483 Truck
+493 Car
+499 Car
+482 Car
+497 Car
+486 Car
+496 Car
+498 Truck

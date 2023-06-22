@@ -1,0 +1,12 @@
+@misc{ thesis-dataset-yvjdb_dataset,
+    title = { Thesis Dataset Dataset },
+    type = { Open Source Dataset },
+    author = { Thesis },
+    howpublished = { \url{ https://universe.roboflow.com/thesis-prblp/thesis-dataset-yvjdb } },
+    url = { https://universe.roboflow.com/thesis-prblp/thesis-dataset-yvjdb },
+    journal = { Roboflow Universe },
+    publisher = { Roboflow },
+    year = { 2023 },
+    month = { mar },
+    note = { visited on 2023-04-03 },
+}

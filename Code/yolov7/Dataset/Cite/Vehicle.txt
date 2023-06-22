@@ -1,0 +1,12 @@
+@misc{ vehicledetection-ik8bx_dataset,
+    title = { VehicleDetection Dataset },
+    type = { Open Source Dataset },
+    author = { Le Trung Hau },
+    howpublished = { \url{ https://universe.roboflow.com/le-trung-hau/vehicledetection-ik8bx } },
+    url = { https://universe.roboflow.com/le-trung-hau/vehicledetection-ik8bx },
+    journal = { Roboflow Universe },
+    publisher = { Roboflow },
+    year = { 2023 },
+    month = { feb },
+    note = { visited on 2023-04-03 },
+}

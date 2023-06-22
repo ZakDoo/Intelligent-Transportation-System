@@ -1,0 +1,17 @@
+69 Car
+63 Car
+59 Car
+50 Truck
+67 Car
+54 Car
+68 Car
+70 Car
+60 Car
+72 Car
+10 Car
+74 Car
+11 Car
+55 Truck
+56 Car
+66 Car
+73 Car

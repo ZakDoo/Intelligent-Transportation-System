@@ -1,0 +1,6 @@
+44 Truck
+40 Truck
+42 Truck
+9 Car
+46 Car
+45 Truck

@@ -1,0 +1,12 @@
+@misc{ vehicle-detection-dataset_dataset,
+    title = { vehicle detection dataset Dataset },
+    type = { Open Source Dataset },
+    author = { University of Siena },
+    howpublished = { \url{ https://universe.roboflow.com/university-of-siena-dls9l/vehicle-detection-dataset } },
+    url = { https://universe.roboflow.com/university-of-siena-dls9l/vehicle-detection-dataset },
+    journal = { Roboflow Universe },
+    publisher = { Roboflow },
+    year = { 2022 },
+    month = { sep },
+    note = { visited on 2023-05-23 },
+}
